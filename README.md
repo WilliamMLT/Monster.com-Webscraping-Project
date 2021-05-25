@@ -5,7 +5,7 @@ This is the Data Design and Representation class Final Project.
 This initial version seeks to compare the job differences between San Francisco and New York, especially in terms of key skills needed for data analysts positions.
 
 If you faced difficulty viewing the notebook, you can view it here:
-
+https://nbviewer.jupyter.org/github/WilliamMLT/Monster.com-Webscraping-Project/blob/main/Monster.com%20Job%20Posting%20Webscraping.ipynb
 
 
 ### 2nd Version: 422 Final Project.ipynb
