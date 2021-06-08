@@ -1,5 +1,5 @@
 # Monster.com Webscraping Project
-This is the Data Design and Representation class Final Project.
+This project web scrapped the job listings data from Monster.com and used various ways to compare the nature of job listings
 
 ### 1st Version: Monster.com Job Posting Webscraping.ipynb
 This initial version seeks to compare the job differences between San Francisco and New York, especially in terms of key skills needed for data analysts positions.
